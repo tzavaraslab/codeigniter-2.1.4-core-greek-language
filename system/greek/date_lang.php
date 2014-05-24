@@ -1,19 +1,19 @@
 <?php
 
-  $lang['date_year'] = "Year";
-  $lang['date_years'] = "Years";
-  $lang['date_month'] = "Month";
-  $lang['date_months'] = "Months";
-  $lang['date_week'] = "Week";
-  $lang['date_weeks'] = "Weeks";
-  $lang['date_day'] = "Day";
-  $lang['date_days'] = "Days";
-  $lang['date_hour'] = "Hour";
-  $lang['date_hours'] = "Hours";
-  $lang['date_minute'] = "Minute";
-  $lang['date_minutes'] = "Minutes";
-  $lang['date_second'] = "Second";
-  $lang['date_seconds'] = "Seconds";
+  $lang['date_year'] = "Χρόνος";
+  $lang['date_years'] = "Χρόνια";
+  $lang['date_month'] = "Μήνας";
+  $lang['date_months'] = "Μήνες";
+  $lang['date_week'] = "Εβδομάδα";
+  $lang['date_weeks'] = "Εβδομάδες";
+  $lang['date_day'] = "Ημέρα";
+  $lang['date_days'] = "Ημέρες";
+  $lang['date_hour'] = "Ώρα";
+  $lang['date_hours'] = "Ώρες";
+  $lang['date_minute'] = "Λεπτό";
+  $lang['date_minutes'] = "Λεπτά";
+  $lang['date_second'] = "Δευτερόλεπτο";
+  $lang['date_seconds'] = "Δευτερόλεπτα";
 
   $lang['UM12']	= '(UTC -12:00) Baker/Howland Island';
   $lang['UM11']	= '(UTC -11:00) Samoa Time Zone, Niue';
